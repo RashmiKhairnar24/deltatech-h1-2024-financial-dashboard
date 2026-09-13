@@ -4,8 +4,6 @@ An Excel-based financial analysis project built to turn six months of fragmented
 
 > **Portfolio project:** The workbook is presented as a business case study for analytical and reporting purposes. It is not intended to represent audited company accounts.
 
-![DeltaTech Dashboard Preview](images/dashboard-preview.png)
-
 ## What this project does
 
 The original data is spread across monthly sheets and is not fully consistent in naming or structure. This project brings the data into one consolidated view, applies the required revenue correction, analyses profitability, and presents the results through an executive-style dashboard.
