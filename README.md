@@ -102,10 +102,6 @@ DeltaTech-Financial-Dashboard-GitHub/
 ├── Portfolio_Khairnar_DeltaTech_Dashboard.xlsx
 ├── README.md
 ├── DATA_DICTIONARY.md
-├── PROJECT_NOTES.md
-├── .gitignore
-└── images/
-    └── dashboard-preview.png
 ```
 
 ## How to use the workbook
